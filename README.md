@@ -1,4 +1,4 @@
-# Dev Accessment webhook Reciever
+# Dev Accessment webhook
 
 ```
 #Action Repo
