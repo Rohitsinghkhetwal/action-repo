@@ -1,11 +1,11 @@
-DEV Assessment - Webhook Reciever
+# Dev Accessment webhook Reciever
 
+```
+#Action Repo
 
-``
-#Action Repo 
+Host sample commit 
 
-Host sample commit
+send webhook to webhook repo
+```
 
-Send webhooks to webhook-repo
-
-``
+# Thanks
