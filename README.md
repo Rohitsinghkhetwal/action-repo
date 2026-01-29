@@ -12,7 +12,6 @@ trigger the webhook
 
 then call the webhook api 
 
-
 ```
 
 # Voila
